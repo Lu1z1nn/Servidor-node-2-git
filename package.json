@@ -1,0 +1,22 @@
+{
+  "name": "projeto-node-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@prisma/client": "^5.19.0",
+    "client": "^0.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.19.0"
+  }
+}
