@@ -58,7 +58,7 @@ app.delete ('/usuarios/:id', async (req, res) => {
 
 
 
-app.listen(3003)
+app.listen(3000)
 
 // username: fellipebezerra2020
 // senha: LUdD2Oy8nUwVI40D
